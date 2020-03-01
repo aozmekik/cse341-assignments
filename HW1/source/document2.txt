@@ -1,0 +1,2 @@
+this course covers topics in programming languages and compilers
+attribute grammars and their use in syntax directed translation
